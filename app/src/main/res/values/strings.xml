@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ScarnesDice</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_roll">ROLL</string>
+    <string name="button_hold">HOLD</string>
+    <string name="button_reset">RESET</string>
+    <string name="scoreboard_default"></string>
+</resources>
